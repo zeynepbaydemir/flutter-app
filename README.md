@@ -32,7 +32,7 @@ Takım Flutter 38
 
 ## Product Backlog URL
 
-
+[ClickUp Backlog Board](https://sharing.clickup.com/36193991/b/h/12ghp7-120/cd58329b6749ae9)
 
 ---
 
@@ -46,6 +46,19 @@ Takım Flutter 38
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://docs.google.com/document/d/1kcCPDhLhpFtpzD7u3kaHZTQgWkgBUmUR/edit?usp=sharing&ouid=100361487333789777624&rtpof=true&sd=true)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://user-images.githubusercontent.com/78684394/167291501-95d04d8e-1249-4104-8682-ac4b01724d47.png) 
+![Backlog 2](https://user-images.githubusercontent.com/78684394/167291507-0f3fccec-53fb-422a-9ee2-4cfda7d609ef.png) 
+
+- **Sprint Review**: 
+Alınan kararlar: Kodlama kısmına geçilmesi gerekli görülmüştür. Bu sprint için ürünün genel özellikleri ve araştırma süreçleri üzerinde durulduğu için kodlama kısmı bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışması ve testleri aşamasına henüz geçilmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: Zeynep Baydemir, Banu Yıldız, Ali Mert Ünal
+
+- **Sprint Retrospective:**
+  - Takım görev dağılımına uygun araştırmalar sprint iki için düzenlenmiştir
+  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
+  - Kodlama ve araştırma için ayrılan efor/saat arttırılmalı
+

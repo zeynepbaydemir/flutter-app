@@ -46,7 +46,7 @@ Takım Flutter 38
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
-
+- **Sprint 1 içinde tamamlanan puan**: 90 Puan (100 üzerinden değerlendirme yapıldı. Devam eden iş dahil edilmedi. Devam eden iş 10 puan.)
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://docs.google.com/document/d/1kcCPDhLhpFtpzD7u3kaHZTQgWkgBUmUR/edit?usp=sharing&ouid=100361487333789777624&rtpof=true&sd=true)
 

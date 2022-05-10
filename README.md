@@ -55,6 +55,11 @@ Takım Flutter 38
 
 ![Backlog 2](https://user-images.githubusercontent.com/78684394/167311175-63676ccb-4ff9-4a6e-a62d-5fc923e85500.png)
 
+- **Ürün Durumu**: Ekran görüntüleri:
+- Sprint 1 için projemizde kodlama yapılmadığı için bu kısımda sadece logonun tasarımını paylaşma kararı alındı.
+
+![gezy](https://user-images.githubusercontent.com/78684394/167720792-3211689b-a948-400d-9cf6-85feec3260a0.png)
+
 - **Sprint Review**: 
 Alınan kararlar: Kodlama kısmına geçilmesi gerekli görülmüştür. Bu sprint için ürünün genel özellikleri ve araştırma süreçleri üzerinde durulduğu için kodlama kısmı bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışması ve testleri aşamasına henüz geçilmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: Zeynep Baydemir, Banu Yıldız, Ali Mert Ünal
 

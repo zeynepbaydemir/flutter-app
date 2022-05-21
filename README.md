@@ -68,3 +68,42 @@ Alınan kararlar: Kodlama kısmına geçilmesi gerekli görülmüştür. Bu spri
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
   - Kodlama ve araştırma için ayrılan efor/saat arttırılmalı
 
+## Product Backlog URL
+
+[ClickUp Backlog Board](https://sharing.clickup.com/36193991/b/h/12ghp7-120/cd58329b6749ae9)
+
+---
+
+# Sprint 2
+
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+- **Sprint 2 içinde tamamlanan puan**: 80 Puan (100 üzerinden değerlendirme yapıldı. Devam eden iş dahil edilmedi. Devam eden iş 20 puan.)
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://docs.google.com/document/d/18lDUO3iMls6uZ95AqnhEgkiKemUUGEMu4J555_GU49c/edit?usp=sharing)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1]()
+
+![Backlog 2]()
+
+- **Ürün Durumu**: Ekran görüntüleri:
+- Sprint 1 için projemizde sadece log in bölümü kodlandığı için bu kısımda sadece log in tasarımını paylaşma kararı alındı.
+
+![log-in](https://user-images.githubusercontent.com/78684394/169641669-b673cf69-b925-43de-bffa-f5c11b77bf13.jpg)
+
+- **Sprint Review**: 
+Alınan kararlar: Log in bölümünün kodlaması bittiği için diğer bölümlerin kodlamasına başlanması kararı alınmıştır. Bu sprint için ürünün log in sayfası ve araştırma süreçleri üzerinde durulduğu için diğer uygulamanın diğer bölümlerinin kodlama kısmı bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışması ve testleri aşamasına henüz geçilmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: Zeynep Baydemir, Banu Yıldız, Ali Mert Ünal
+
+- **Sprint Retrospective:**
+  - Takım görev dağılımına uygun araştırmalar sprint üç için düzenlenmiştir
+  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
+  - Kodlama için ayrılan efor/saat arttırılmalı
+
+

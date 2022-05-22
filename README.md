@@ -108,7 +108,7 @@ Alınan kararlar: Log in bölümünün kodlaması bittiği için diğer bölüml
 
 ## Product Backlog URL
 
-[ClickUp Backlog Board](https://sharing.clickup.com/36193991/b/h/12ghp7-120/cd58329b6749ae9)
+[ClickUp Backlog Board](https://sharing.clickup.com/36193991/b/h/6-204246564-2/cf07587652894a2)
 
 ---
 

@@ -89,9 +89,9 @@ Alınan kararlar: Kodlama kısmına geçilmesi gerekli görülmüştür. Bu spri
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://docs.google.com/document/d/18lDUO3iMls6uZ95AqnhEgkiKemUUGEMu4J555_GU49c/edit?usp=sharing)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1]()
+![Backlog 1](https://user-images.githubusercontent.com/78684394/169715780-100a12dd-0773-4569-b666-c1c66de46055.png)
 
-![Backlog 2]()
+![Backlog 2](https://user-images.githubusercontent.com/78684394/169715808-88a4b49c-4ab4-40d1-9bfe-6c4cfef233d0.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
 - Sprint 1 için projemizde sadece log in bölümü kodlandığı için bu kısımda sadece log in tasarımını paylaşma kararı alındı.
@@ -106,4 +106,9 @@ Alınan kararlar: Log in bölümünün kodlaması bittiği için diğer bölüml
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
   - Kodlama için ayrılan efor/saat arttırılmalı
 
+## Product Backlog URL
+
+[ClickUp Backlog Board](https://sharing.clickup.com/36193991/b/h/12ghp7-120/cd58329b6749ae9)
+
+---
 

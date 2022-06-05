@@ -128,11 +128,13 @@ Alınan kararlar: Log in bölümünün kodlaması bittiği için diğer bölüml
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://docs.google.com/document/d/1QsEbweIaVNMSja1bdQg3GFGlAXJhgnSskXxo_GB9kEg/edit?usp=sharing)
 
 - **Sprint board update**: Sprint board screenshotları: 
+
 ![Backlog 1](https://user-images.githubusercontent.com/78684394/172043320-38e5cce4-fa65-44e0-a468-d06ac9cae50b.png)
 
 ![Backlog 2](https://user-images.githubusercontent.com/78684394/172064696-f9715e8c-f5a4-4f5d-a8c6-d960a9cd9d8e.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
+
 ![1](https://user-images.githubusercontent.com/78684394/172064558-95ad8a25-bfe5-4852-b95e-f35629936731.jpeg)
 
 ![gezy](https://user-images.githubusercontent.com/78684394/172064554-d70d5cf7-1713-4cbf-b852-4013ef35b7f3.jpeg)

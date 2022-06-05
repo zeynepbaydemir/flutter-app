@@ -96,7 +96,8 @@ Alınan kararlar: Kodlama kısmına geçilmesi gerekli görülmüştür. Bu spri
 - **Ürün Durumu**: Ekran görüntüleri:
 - Sprint 1 için projemizde sadece log in bölümü kodlandığı için bu kısımda sadece log in tasarımını paylaşma kararı alındı.
 
-![log-in](https://user-images.githubusercontent.com/78684394/169641669-b673cf69-b925-43de-bffa-f5c11b77bf13.jpg)
+![log-in](https://user-images.githubusercontent.com/78684394/172064622-1db77f8c-d0fb-48d5-9384-caa1b01ef827.jpeg)
+
 
 - **Sprint Review**: 
 Alınan kararlar: Log in bölümünün kodlaması bittiği için diğer bölümlerin kodlamasına başlanması kararı alınmıştır. Bu sprint için ürünün log in sayfası ve araştırma süreçleri üzerinde durulduğu için diğer uygulamanın diğer bölümlerinin kodlama kısmı bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışması ve testleri aşamasına henüz geçilmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: Zeynep Baydemir, Banu Yıldız, Ali Mert Ünal
@@ -129,12 +130,16 @@ Alınan kararlar: Log in bölümünün kodlaması bittiği için diğer bölüml
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://user-images.githubusercontent.com/78684394/172043320-38e5cce4-fa65-44e0-a468-d06ac9cae50b.png)
 
-
-![Backlog 2](https://user-images.githubusercontent.com/78684394/172043332-1abf74f7-6126-4785-91cf-76c6cb5d2329.png)
+![Backlog 2](https://user-images.githubusercontent.com/78684394/172064696-f9715e8c-f5a4-4f5d-a8c6-d960a9cd9d8e.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
+![1](https://user-images.githubusercontent.com/78684394/172064558-95ad8a25-bfe5-4852-b95e-f35629936731.jpeg)
 
-![gezy]()
+![gezy](https://user-images.githubusercontent.com/78684394/172064554-d70d5cf7-1713-4cbf-b852-4013ef35b7f3.jpeg)
+
+![2](https://user-images.githubusercontent.com/78684394/172064559-2a16a982-f9e2-479f-b4e5-c414ed2fc0f6.jpeg)
+
+![3](https://user-images.githubusercontent.com/78684394/172064555-b4a95777-319c-4af6-9c58-d162fe37c748.jpeg)
 
 - **Sprint Review**: 
 Alınan kararlar: Projenin başarılı bir şekilde hayata geçirildiği görülmüştür. Bu sprint için ürünün genel özellikleri, araştırma süreçleri ve bunların kodlanması üzerinde durulduğu için proje adına başarılı bir bitiş olmuştur. Çıkan ürünün çalışması ve testleri aşaması gerçekleştirilmiştir. Ekstra koyulması gereken özellikler üzerine geliştirmeler yapılıp projeye dahil edilebilen özellikler dahil edilmiştir. Sprint Review katılımcıları: Zeynep Baydemir, Banu Yıldız, Ali Mert Ünal

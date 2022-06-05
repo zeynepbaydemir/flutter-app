@@ -94,7 +94,7 @@ Alınan kararlar: Kodlama kısmına geçilmesi gerekli görülmüştür. Bu spri
 ![Backlog 2](https://user-images.githubusercontent.com/78684394/169715808-88a4b49c-4ab4-40d1-9bfe-6c4cfef233d0.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-- Sprint 1 için projemizde sadece log in bölümü kodlandığı için bu kısımda sadece log in tasarımını paylaşma kararı alındı.
+- Sprint 2 için projemizde sadece log in bölümü kodlandığı için bu kısımda sadece log in tasarımını paylaşma kararı alındı.
 
 ![log-in](https://user-images.githubusercontent.com/78684394/172064622-1db77f8c-d0fb-48d5-9384-caa1b01ef827.jpeg)
 

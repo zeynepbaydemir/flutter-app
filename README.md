@@ -80,7 +80,7 @@ Alınan kararlar: Kodlama kısmına geçilmesi gerekli görülmüştür. Bu spri
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 330 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde 2. sprint'in en azından 100 ile değerlendirilmesine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
@@ -112,3 +112,40 @@ Alınan kararlar: Log in bölümünün kodlaması bittiği için diğer bölüml
 
 ---
 
+# Sprint 3
+
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 130 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 330 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde 3. sprint'in en azından 130 ile değerlendirilmesine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+- **Sprint 3 içinde tamamlanan puan**: 115 Puan (130 üzerinden değerlendirme yapıldı. Devam eden iş dahil edilmedi. Devam eden/tamamlanamayan iş 15 puan.)
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://docs.google.com/document/d/1QsEbweIaVNMSja1bdQg3GFGlAXJhgnSskXxo_GB9kEg/edit?usp=sharing)
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1](https://user-images.githubusercontent.com/78684394/172043320-38e5cce4-fa65-44e0-a468-d06ac9cae50b.png)
+
+
+![Backlog 2](https://user-images.githubusercontent.com/78684394/172043332-1abf74f7-6126-4785-91cf-76c6cb5d2329.png)
+
+- **Ürün Durumu**: Ekran görüntüleri:
+
+![gezy]()
+
+- **Sprint Review**: 
+Alınan kararlar: Projenin başarılı bir şekilde hayata geçirildiği görülmüştür. Bu sprint için ürünün genel özellikleri, araştırma süreçleri ve bunların kodlanması üzerinde durulduğu için proje adına başarılı bir bitiş olmuştur. Çıkan ürünün çalışması ve testleri aşaması gerçekleştirilmiştir. Ekstra koyulması gereken özellikler üzerine geliştirmeler yapılıp projeye dahil edilebilen özellikler dahil edilmiştir. Sprint Review katılımcıları: Zeynep Baydemir, Banu Yıldız, Ali Mert Ünal
+
+- **Sprint Retrospective:**
+  - Takım görev dağılımına uygun araştırmalar sprint iki için düzenlenmiştir
+  - Yeterli zaman olmadığı için Firebase ve proje adına daha fazla şehir ve gezilecek yer eklenmesi işlemleri gerçekleştirilememiştir.
+  - Önümüzdeki/Bundan sonraki projeler için kodlama kısmına daha erken başlanması gerekli görülmüştür.
+
+## Product Backlog URL
+
+[ClickUp Backlog Board](https://sharing.clickup.com/36193991/b/h/6-210078851-2/8cb08eff798aa58)
+
+---

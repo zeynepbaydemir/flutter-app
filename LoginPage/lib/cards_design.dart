@@ -1,4 +1,11 @@
 import 'package:flutter/material.dart';
+import 'package:travel/%C4%B0zmir_Menu.dart';
+import 'package:travel/Ankara_Menu.dart';
+import 'package:travel/Istanbul_Menu.dart';
+import 'package:travel/Konya_Menu.dart';
+import 'package:travel/Trabzon_Menu.dart';
+
+import 'Antalya_Menu.dart';
 
 class MakeDashboardItems extends StatefulWidget {
   const MakeDashboardItems({Key? key}) : super(key: key);
@@ -26,7 +33,7 @@ class _MakeDashboardItemsState extends State<MakeDashboardItems> {
                 ),
                 boxShadow: const [
                   BoxShadow(
-                    color: Colors.white,
+                    color: Colors.black,
                     blurRadius: 3,
                     offset: Offset(2, 2),
                   )
@@ -44,7 +51,7 @@ class _MakeDashboardItemsState extends State<MakeDashboardItems> {
                 ),
                 boxShadow: const [
                   BoxShadow(
-                    color: Colors.white,
+                    color: Colors.black,
                     blurRadius: 3,
                     offset: Offset(2, 2),
                   )
@@ -54,21 +61,27 @@ class _MakeDashboardItemsState extends State<MakeDashboardItems> {
           onTap: () {
             if (index == 0) {
               //1.item
+              Navigator.push(context, MaterialPageRoute(builder: (context) => const Istanbul_Menu()));
             }
             if (index == 1) {
               //2.item
+              Navigator.push(context, MaterialPageRoute(builder: (context) => const Izmir_Menu()));
             }
             if (index == 2) {
               //3.item
+              Navigator.push(context, MaterialPageRoute(builder: (context) => const Antalya_Menu()));
             }
             if (index == 3) {
               //4.item
+              Navigator.push(context, MaterialPageRoute(builder: (context) => const Ankara_Menu()));
             }
             if (index == 4) {
               //5.item
+              Navigator.push(context, MaterialPageRoute(builder: (context) => const Konya_Menu()));
             }
             if (index == 5) {
               //6.item
+              Navigator.push(context, MaterialPageRoute(builder: (context) => const Trabzon_Menu()));
             }
           },
           child: Column(
@@ -76,12 +89,12 @@ class _MakeDashboardItemsState extends State<MakeDashboardItems> {
             mainAxisSize: MainAxisSize.min,
             verticalDirection: VerticalDirection.down,
             children: [
-              const SizedBox(height: 50),
+              const SizedBox(height: 0),
               Center(
                 child: Image.asset(
                   img,
-                  height: 50,
-                  width: 50,
+                  height: 130,
+                  width: 130,
                 ),
               ),
               const SizedBox(height: 20),
@@ -102,7 +115,7 @@ class _MakeDashboardItemsState extends State<MakeDashboardItems> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color.fromARGB(255, 170, 193, 232),
+      backgroundColor: const Color.fromARGB(255, 170, 193, 232),
       body: Column(
         children: [
           const SizedBox(height: 100),
@@ -134,12 +147,12 @@ class _MakeDashboardItemsState extends State<MakeDashboardItems> {
               crossAxisCount: 2,
               padding: const EdgeInsets.all(2),
               children: [
-                makeDashboardItem("İstanbul", "assets/images/istanbul.jpg", 0),
-                makeDashboardItem("İzmir", "assets/images/izmir.jpg", 1),
-                makeDashboardItem("Antalya", "assets/images/antalya.jpg", 2),
-                makeDashboardItem("Ankara", "assets/images/antalya.jpg", 3),
-                makeDashboardItem("Konya", "assets/images/konya.jpg", 4),
-                makeDashboardItem("Trabzon", "assets/images/trabzon.jpg", 5),
+                makeDashboardItem("İstanbul", "images/istanbul.jpg", 0),
+                makeDashboardItem("İzmir", "images/izmir.jpg", 1),
+                makeDashboardItem("Antalya", "images/antalya.jpg", 2),
+                makeDashboardItem("Ankara", "images/ankara.jpg", 3),
+                makeDashboardItem("Konya", "images/konya.jpg", 4),
+                makeDashboardItem("Trabzon", "images/trabzon.jpg", 5),
               ],
             ),
           ),

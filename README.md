@@ -147,9 +147,9 @@ Alınan kararlar: Log in bölümünün kodlaması bittiği için diğer bölüml
 Alınan kararlar: Projenin başarılı bir şekilde hayata geçirildiği görülmüştür. Bu sprint için ürünün genel özellikleri, araştırma süreçleri ve bunların kodlanması üzerinde durulduğu için proje adına başarılı bir bitiş olmuştur. Çıkan ürünün çalışması ve testleri aşaması gerçekleştirilmiştir. Ekstra koyulması gereken özellikler üzerine geliştirmeler yapılıp projeye dahil edilebilen özellikler dahil edilmiştir. Sprint Review katılımcıları: Zeynep Baydemir, Banu Yıldız, Ali Mert Ünal
 
 - **Sprint Retrospective:**
-  - Takım görev dağılımına uygun araştırmalar sprint iki için düzenlenmiştir
   - Yeterli zaman olmadığı için Firebase ve proje adına daha fazla şehir ve gezilecek yer eklenmesi işlemleri gerçekleştirilememiştir.
   - Önümüzdeki/Bundan sonraki projeler için kodlama kısmına daha erken başlanması gerekli görülmüştür.
+  - Geleceğe yönelik projelerde hangi kısımların erken başlanması(kodlama) ve hangi kısımlara daha çok yer verilmesi gerekildiği konuşulmuştur.
 
 ## Product Backlog URL
 

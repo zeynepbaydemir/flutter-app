@@ -138,7 +138,7 @@ class _Ankara_MenuState extends State<Ankara_Menu> {
                     ),
                     SizedBox(height: 25),
                     Text(
-                      "Bölgeler:",
+                      "Gezilecek Yerler:",
                       style: TextStyle(
                           fontSize: 18,
                           fontWeight: FontWeight.bold,
@@ -157,7 +157,7 @@ class _Ankara_MenuState extends State<Ankara_Menu> {
               children: [
                 makeDashboardItem("Anıtkabir", "images/anitkabir.jpg", 0),
                 makeDashboardItem("Ankara Kalesi", "images/ankarakale.jpg", 1),
-                makeDashboardItem("Medeniyerler Müzesi", "images/anadolu.jpg", 2),
+                makeDashboardItem("Atakule", "images/atakule.jpg", 2),
                 makeDashboardItem("Tuz Gölü", "images/tuz.jpg", 3),
               ],
             ),

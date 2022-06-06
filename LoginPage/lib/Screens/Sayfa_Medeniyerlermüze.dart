@@ -19,7 +19,7 @@ class Sayfa_Medeniyetler extends StatelessWidget {
                     ),
                     image: DecorationImage(
                       fit: BoxFit.fill,
-                      image: AssetImage("images/anadolu.jpg"),
+                      image: AssetImage("images/atakule.jpg"),
                     ),
                   ),
                 ),
@@ -51,7 +51,7 @@ class Sayfa_Medeniyetler extends StatelessWidget {
                     height: 10,
                   ),
                   Text(
-                    'Medeniyetler Müzesi',
+                    'Atakule',
                     style: TextStyle(
                         fontFamily: 'Lobster',
                         fontWeight: FontWeight.normal,
@@ -63,7 +63,7 @@ class Sayfa_Medeniyetler extends StatelessWidget {
                     height: 10,
                   ),
                   Text(
-                    "Anadolu Medeniyetleri Müzesi; Ankara'nın Altındağ ilçesinde bulunan bir tarih ve arkeoloji müzesidir. Müzede, Anadolu'da yaşamış olan uygarlıklardan geriye kalan arkeolojik eserler kronolojik olarak sergilenmektedir.",
+                    "13 Ekim 1989 tarihinde Ankara'nın başkent oluşunun 66. yıldönümüne denk gelen günde 8. Cumhurbaşkanı Turgut Özal tarafından açılışı yapılan kulenin altında, Türkiye'nin ikinci ve Ankara'nın ilk Alışveriş Merkezi hizmet vermeye başlamıştır.Yapının adı bir yarışma sonucu belirlenmiştir.",
                     style: TextStyle(
                       fontSize: 20,
                     ),

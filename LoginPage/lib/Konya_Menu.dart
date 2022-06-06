@@ -138,7 +138,7 @@ class _Konya_MenuState extends State<Konya_Menu> {
                     ),
                     SizedBox(height: 25),
                     Text(
-                      "Bölgeler:",
+                      "Gezilecek Yerler:",
                       style: TextStyle(
                           fontSize: 18,
                           fontWeight: FontWeight.bold,
@@ -157,7 +157,7 @@ class _Konya_MenuState extends State<Konya_Menu> {
               children: [
                 makeDashboardItem("Mevlana Müzesi", "images/mevlana.jpg", 0),
                 makeDashboardItem("Beyşehir Gölü", "images/beyşehir.jpg", 1),
-                makeDashboardItem("ÇatalHöyük", "images/çatal.jpg", 2),
+                makeDashboardItem("Çatalhöyük", "images/çatal.jpg", 2),
                 makeDashboardItem("Selimiye Camii", "images/selimiye.jpg", 3),
               ],
             ),

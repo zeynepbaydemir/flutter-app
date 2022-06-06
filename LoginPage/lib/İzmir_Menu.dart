@@ -137,7 +137,7 @@ class _Izmir_MenuState extends State<Izmir_Menu> {
                     ),
                     SizedBox(height: 25),
                     Text(
-                      "Bölgeler:",
+                      "Gezilecek Yerler:",
                       style: TextStyle(
                           fontSize: 18,
                           fontWeight: FontWeight.bold,

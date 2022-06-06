@@ -138,7 +138,7 @@ class _Trabzon_MenuState extends State<Trabzon_Menu> {
                     ),
                     SizedBox(height: 25),
                     Text(
-                      "Bölgeler:",
+                      "Gezilecek Yerler:",
                       style: TextStyle(
                           fontSize: 18,
                           fontWeight: FontWeight.bold,
@@ -155,7 +155,7 @@ class _Trabzon_MenuState extends State<Trabzon_Menu> {
               crossAxisCount: 2,
               padding: const EdgeInsets.all(2),
               children: [
-                makeDashboardItem("Sümele Manastırı", "images/sümele.jpg", 0),
+                makeDashboardItem("Sümela Manastırı", "images/sümele.jpg", 0),
                 makeDashboardItem("Uzungöl", "images/uzungöl.jpg", 1),
                 makeDashboardItem("Trabzon Kalesi", "images/trabzonkale.jpg", 2),
                 makeDashboardItem("Atatürk Köşkü", "images/köşk.jpg", 3),

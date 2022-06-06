@@ -139,7 +139,7 @@ class _Istanbul_MenuState extends State<Istanbul_Menu> {
                     ),
                     SizedBox(height: 25),
                     Text(
-                      "Bölgeler:",
+                      "Gezilecek Yerler:",
                       style: TextStyle(
                           fontSize: 18,
                           fontWeight: FontWeight.bold,

@@ -128,7 +128,7 @@ class _MakeDashboardItemsState extends State<MakeDashboardItems> {
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: const <Widget>[
                     Text(
-                      "Hoşgeldiniz, ",
+                      "Hoş geldiniz, ",
                       style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold, fontFamily: 'robotoMono'),
                     ),
                     SizedBox(height: 4),

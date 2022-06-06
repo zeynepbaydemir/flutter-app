@@ -51,7 +51,7 @@ class Sayfa_Sumele extends StatelessWidget {
                     height: 10,
                   ),
                   Text(
-                    'Sümele Manastırı',
+                    'Sümela Manastırı',
                     style: TextStyle(
                         fontFamily: 'Lobster',
                         fontWeight: FontWeight.normal,
